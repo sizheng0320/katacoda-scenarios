@@ -1,0 +1,11 @@
+{
+  "title": "test-course",
+  "description": "test-course",
+  "courses": [
+    {
+      "course_id": "test-scen",
+      "title": "Test_Scen",
+      "description": "test-scen"
+    }
+  ]
+}
